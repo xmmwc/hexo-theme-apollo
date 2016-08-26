@@ -1,9 +1,8 @@
 menu:
-    Blog: /
+    Blog: http://xmmwc.wicp.net/blog
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
-    Rss: /atom.xml
+    Weibo: http://weibo.com/toxmm
+    GitHub: https://github.com/xmmwc
 
 favicon: /favicon.png
 logo: /favicon.png
@@ -18,4 +17,4 @@ duoshuo:
 ga: UA-65933410-1
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2016
